@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "javascript-calculator",
+  "version": "1.0.0",
+  "description": "simple calculator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrOsta/simpleCalculatorForLearningGit.git"
+  },
+  "keywords": [
+    "calc",
+    "osta",
+    "egil",
+    "ftak"
+  ],
+  "author": "Osta,egil,ftak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrOsta/simpleCalculatorForLearningGit/issues"
+  },
+  "homepage": "https://github.com/MrOsta/simpleCalculatorForLearningGit#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
